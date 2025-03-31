@@ -11,7 +11,7 @@ This project involves gathering catch and export data from different sources and
 - `results/` → screenshots of visualised data, and Entity-Relationship diagram.
 - Final Project Report (PDF)
 
-## Methodology
+## ⚙️ Methodology
 
 Skills & Concepts Used:
 
