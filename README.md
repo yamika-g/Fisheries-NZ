@@ -11,6 +11,12 @@ This project involves gathering catch and export data from different sources and
 - `results/` → screenshots of visualised data, and Entity-Relationship diagram.
 - Final Project Report (PDF)
 
+## Methodology
+
+Skills & Concepts Used:
+R    |    Web Scraping    |   Relational Databases
+I used R to analyze this dataset, and Jupyter Notebook as my environment. For my analysis, I used the following packages: `tidyverse`, `dplyr`, `rvest`, `visdat`, and `ggplot2`.
+
 
 ## 📊 Results
 
