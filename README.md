@@ -16,19 +16,19 @@ This project involves gathering catch and export data from different sources and
 
 By analyzing this data, I attempted to find answers to the following questions:
 
-	1. In 2021, which fish was the most caught fish in NZ? 
-	2. What are the top 5 export destinations for fish from NZ?
-	3. What countries are the top 5 importers of Hoki from NZ?
-	4. How has the price of fish products changed over the years from 2018-2022?
-	5. Are there any species that are overfished?
+1. In 2021, which fish was the most caught fish in NZ? 
+2. What are the top 5 export destinations for fish from NZ?
+3. What countries are the top 5 importers of Hoki from NZ?
+4. How has the price of fish products changed over the years from 2018-2022?
+5. Are there any species that are overfished?
 
 Here are the findings:
 
-	1. The top 3 caught species in NZ in 2021 were Hoki, Jack Mackerel, and different kinds of Squid.
-	2. The top 5 export destinations are China, Australia, USA, Japan and South Africa.
-	3. The top 5 importers of Hoki are China, Australia, Poland, France, and Germany.
-	4. The average price of fish products didn't change much over the years.
-	5. Bluenose was initially overfished, but its fishing decreased in 2021 and 2022. Gemfish was almost always overfished in this 5 year period.
+1. The top 3 caught species in NZ in 2021 were Hoki, Jack Mackerel, and different kinds of Squid.
+2. The top 5 export destinations are China, Australia, USA, Japan and South Africa.
+3. The top 5 importers of Hoki are China, Australia, Poland, France, and Germany.
+4. The average price of fish products didn't change much over the years.
+5. Bluenose was initially overfished, but its fishing decreased in 2021 and 2022. Gemfish was almost always overfished in this 5 year period.
 
 ## 📜 License
 This project is **copyrighted** and may **not** be used, copied, modified, or distributed.  
