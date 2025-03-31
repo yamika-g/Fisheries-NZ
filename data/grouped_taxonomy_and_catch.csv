@@ -1,0 +1,440 @@
+"","CommonName","Year","TotalReportedCatch","TotalTACC"
+"1","Alfonsino/Beryx Fish","2018",2577418,3141700
+"2","Alfonsino/Beryx Fish","2019",2379959,3141700
+"3","Alfonsino/Beryx Fish","2020",2452989,3141700
+"4","Alfonsino/Beryx Fish","2021",2118100,3141700
+"5","Alfonsino/Beryx Fish","2022",2324832,3141700
+"6","Anchovy","2018",203,560000
+"7","Anchovy","2019",3628,560000
+"8","Anchovy","2020",126,560000
+"9","Anchovy","2021",4879,560000
+"10","Anchovy","2022",33,560000
+"11","Anemones & Jellyfish",NA,0,NA
+"12","Barracouta","2018",29071106,33402461
+"13","Barracouta","2019",18418902,33402461
+"14","Barracouta","2020",22804391,33402461
+"15","Barracouta","2021",21397364,33402461
+"16","Barracouta","2022",21740901,33402461
+"17","Barracouta",NA,0,NA
+"18","Billfish","2018",0,NA
+"19","Billfish","2019",0,NA
+"20","Billfish","2020",0,NA
+"21","Billfish","2021",0,NA
+"22","Billfish","2022",250,NA
+"23","Billfish",NA,0,NA
+"24","Bluenose","2018",656384,630000
+"25","Bluenose","2019",671313,630000
+"26","Bluenose","2020",616271,630000
+"27","Bluenose","2021",527580,630000
+"28","Bluenose","2022",474940,630000
+"29","Bully Fish",NA,0,NA
+"30","Butterfish","2018",105313,162000
+"31","Butterfish","2019",110807,162000
+"32","Butterfish","2020",104709,162000
+"33","Butterfish","2021",87951,162000
+"34","Butterfish","2022",76801,162000
+"35","Butterfish",NA,0,NA
+"36","Cardinal Fish","2018",401007,1968000
+"37","Cardinal Fish","2019",696245,1968000
+"38","Cardinal Fish","2020",466838,1968000
+"39","Cardinal Fish","2021",548023,1979000
+"40","Cardinal Fish","2022",211007,939000
+"41","Cardinal Fish",NA,0,NA
+"42","Carp Fish","2018",7564,NA
+"43","Carp Fish","2019",12410,NA
+"44","Carp Fish","2020",9259,NA
+"45","Carp Fish","2021",8793,NA
+"46","Carp Fish","2022",5161,NA
+"47","Carp Fish",NA,0,NA
+"48","Catfish","2018",16793,NA
+"49","Catfish","2019",13864,NA
+"50","Catfish","2020",7799,NA
+"51","Catfish","2021",13688,NA
+"52","Catfish","2022",15189,NA
+"53","Cockles","2018",1220230,3214000
+"54","Cockles","2019",1194962,3214000
+"55","Cockles","2020",1018773,3214000
+"56","Cockles","2021",1183033,3214000
+"57","Cockles","2022",1164397,3214000
+"58","Cockles",NA,0,NA
+"59","Cod Fish","2018",5417736,10609992
+"60","Cod Fish","2019",4756254,10609992
+"61","Cod Fish","2020",4263198,10609992
+"62","Cod Fish","2021",4662718,10170992
+"63","Cod Fish","2022",4439669,10138260
+"64","Cod Fish",NA,0,NA
+"65","Crabs","2018",221534,NA
+"66","Crabs","2019",194480,NA
+"67","Crabs","2020",267000,NA
+"68","Crabs","2021",278551,NA
+"69","Crabs","2022",211504,NA
+"70","Crabs",NA,0,NA
+"71","Crayfish","2018",0,NA
+"72","Crayfish","2019",0,NA
+"73","Crayfish","2020",0,NA
+"74","Crayfish","2021",0,NA
+"75","Crayfish","2022",0,NA
+"76","Crayfish",NA,0,NA
+"77","Eels","2018",552,NA
+"78","Eels","2019",120,NA
+"79","Eels","2020",23,NA
+"80","Eels","2021",485,NA
+"81","Eels","2022",87,NA
+"82","Eels",NA,0,NA
+"83","Elephant Fish","2018",1345905,1313500
+"84","Elephant Fish","2019",1353841,1463500
+"85","Elephant Fish","2020",1359310,1463700
+"86","Elephant Fish","2021",1257850,1463700
+"87","Elephant Fish","2022",1209440,1463700
+"88","Flounder Fish","2018",0,NA
+"89","Flounder Fish","2019",0,NA
+"90","Flounder Fish","2020",0,NA
+"91","Flounder Fish","2021",0,NA
+"92","Flounder Fish","2022",0,NA
+"93","Flounder Fish",NA,0,NA
+"94","Frostfish","2018",2693268,4019000
+"95","Frostfish","2019",2869077,4019000
+"96","Frostfish","2020",1702009,4019000
+"97","Frostfish","2021",1637990,4019000
+"98","Frostfish","2022",2582118,4019000
+"99","Frostfish",NA,0,NA
+"100","Garfish","2018",20181,50000
+"101","Garfish","2019",16418,50000
+"102","Garfish","2020",22543,50000
+"103","Garfish","2021",13784,50000
+"104","Garfish","2022",15447,50000
+"105","Gemfish","2018",1612095,1060394
+"106","Gemfish","2019",2195719,1060394
+"107","Gemfish","2020",2120104,1658000
+"108","Gemfish","2021",2727547,1748000
+"109","Gemfish","2022",2144258,2228000
+"110","Ghost Sharks","2018",2391663,4827000
+"111","Ghost Sharks","2019",2246686,4827000
+"112","Ghost Sharks","2020",1720326,4827000
+"113","Ghost Sharks","2021",1965641,4827000
+"114","Ghost Sharks","2022",1705645,4835000
+"115","Ghost Sharks",NA,0,NA
+"116","Groper/Hapuku Fish","2018",1250263,NA
+"117","Groper/Hapuku Fish","2019",1259722,NA
+"118","Groper/Hapuku Fish","2020",1104767,NA
+"119","Groper/Hapuku Fish","2021",1146685,NA
+"120","Groper/Hapuku Fish","2022",893504,NA
+"121","Groper/Hapuku Fish",NA,0,NA
+"122","Gurnard Fish","2018",3856153,5761187
+"123","Gurnard Fish","2019",4028959,5861187
+"124","Gurnard Fish","2020",4412137,5959187
+"125","Gurnard Fish","2021",4306260,6246187
+"126","Gurnard Fish","2022",3903202,4876662
+"127","Gurnard Fish",NA,0,NA
+"128","Hake","2018",4703598,10575143
+"129","Hake","2019",2641950,10575143
+"130","Hake","2020",3262169,7783143
+"131","Hake","2021",3077137,7783143
+"132","Hake","2022",3154085,7783143
+"133","Hoki","2018",135418710,150010000
+"134","Hoki","2019",122459787,150010000
+"135","Hoki","2020",107736530,115010000
+"136","Hoki","2021",100818690,115010000
+"137","Hoki","2022",91664460,110010000
+"138","Jack Mackerel","2018",45301545,51327214
+"139","Jack Mackerel","2019",40734708,51327214
+"140","Jack Mackerel","2020",43283928,51327214
+"141","Jack Mackerel","2021",44187546,51327214
+"142","Jack Mackerel","2022",36094884,51327214
+"143","John Dory","2018",660591,1205400
+"144","John Dory","2019",611590,874400
+"145","John Dory","2020",557566,895400
+"146","John Dory","2021",578753,895400
+"147","John Dory","2022",549533,895400
+"148","Kahawai","2018",2138122,2728000
+"149","Kahawai","2019",2042153,2728000
+"150","Kahawai","2020",1637031,2728000
+"151","Kahawai","2021",2188555,2728000
+"152","Kahawai","2022",2118499,2728000
+"153","Kingfish","2018",255280,217000
+"154","Kingfish","2019",316549,222000
+"155","Kingfish","2020",309274,222000
+"156","Kingfish","2021",279279,297000
+"157","Kingfish","2022",222321,297000
+"158","Leatherjacket","2018",293609,1461000
+"159","Leatherjacket","2019",320462,1461000
+"160","Leatherjacket","2020",268832,1461000
+"161","Leatherjacket","2021",252399,1471000
+"162","Leatherjacket","2022",251377,1471000
+"163","Ling","2018",18694281,23192000
+"164","Ling","2019",16742554,23972000
+"165","Ling","2020",16456140,24279000
+"166","Ling","2021",16753624,24279000
+"167","Ling","2022",16918371,24752000
+"168","Lobsters","2018",3751282,4026608
+"169","Lobsters","2019",3828132,4138548
+"170","Lobsters","2020",3510334,4188786
+"171","Lobsters","2021",4166205,4143086
+"172","Lobsters","2022",3890685,4202686
+"173","Lobsters",NA,0,NA
+"174","Maomao","2018",3781,NA
+"175","Maomao","2019",3224,NA
+"176","Maomao","2020",5738,NA
+"177","Maomao","2021",3287,NA
+"178","Maomao","2022",7046,NA
+"179","Maomao",NA,0,NA
+"180","Moki Fish","2018",619783,640906
+"181","Moki Fish","2019",543325,640906
+"182","Moki Fish","2020",552826,640906
+"183","Moki Fish","2021",452573,656906
+"184","Moki Fish","2022",510530,656906
+"185","Moki Fish",NA,0,NA
+"186","Mudfish",NA,0,NA
+"187","Mullet Fish","2018",845132,1073601
+"188","Mullet Fish","2019",891276,1073601
+"189","Mullet Fish","2020",848976,1073601
+"190","Mullet Fish","2021",858281,1074601
+"191","Mullet Fish","2022",970652,1061601
+"192","Mullet Fish",NA,0,NA
+"193","Mussels","2018",156057,NA
+"194","Mussels","2019",139592,NA
+"195","Mussels","2020",94234,NA
+"196","Mussels","2021",111250,NA
+"197","Mussels","2022",178300,NA
+"198","Mussels",NA,0,NA
+"199","Octopus","2018",100841,NA
+"200","Octopus","2019",88972,NA
+"201","Octopus","2020",79733,NA
+"202","Octopus","2021",124924,NA
+"203","Octopus","2022",60266,NA
+"204","Octopus",NA,0,NA
+"205","Orange Roughy","2018",8073415,8933000
+"206","Orange Roughy","2019",8018878,9827000
+"207","Orange Roughy","2020",8885449,10966000
+"208","Orange Roughy","2021",10023313,12161000
+"209","Orange Roughy","2022",10275071,12161000
+"210","Oreos","2018",8783204,NA
+"211","Oreos","2019",8949518,NA
+"212","Oreos","2020",7732761,NA
+"213","Oreos","2021",8705049,NA
+"214","Oreos","2022",7502686,NA
+"215","Oreos",NA,0,NA
+"216","Other",NA,0,NA
+"217","Other Chimaera Fish",NA,0,NA
+"218","Other Dory Fish","2018",564351,783000
+"219","Other Dory Fish","2019",420896,783000
+"220","Other Dory Fish","2020",398947,783000
+"221","Other Dory Fish","2021",457005,783000
+"222","Other Dory Fish","2022",476827,783000
+"223","Other Dory Fish",NA,0,NA
+"224","Other Flatfish","2018",2031567,NA
+"225","Other Flatfish","2019",1939757,NA
+"226","Other Flatfish","2020",1911478,NA
+"227","Other Flatfish","2021",1814497,NA
+"228","Other Flatfish","2022",1583163,NA
+"229","Other Flatfish",NA,0,NA
+"230","Other Freshwater Fish","2018",518877,NA
+"231","Other Freshwater Fish","2019",414477,NA
+"232","Other Freshwater Fish","2020",328609,NA
+"233","Other Freshwater Fish","2021",296228,NA
+"234","Other Freshwater Fish","2022",293121,NA
+"235","Other Freshwater Fish",NA,0,NA
+"236","Other Mackerel Fish",NA,0,NA
+"237","Other fish","2018",67202,NA
+"238","Other fish","2019",45248,NA
+"239","Other fish","2020",47407,NA
+"240","Other fish","2021",37658,NA
+"241","Other fish","2022",18915,NA
+"242","Other fish",NA,0,NA
+"243","Oysters","2018",9905321,NA
+"244","Oysters","2019",9493545,NA
+"245","Oysters","2020",8310096,NA
+"246","Oysters","2021",7616045,NA
+"247","Oysters","2022",7661148,NA
+"248","Oysters",NA,0,NA
+"249","Parore","2018",65363,84000
+"250","Parore","2019",81735,84000
+"251","Parore","2020",77810,84000
+"252","Parore","2021",73741,84000
+"253","Parore","2022",59003,84000
+"254","Paua","2018",704663,NA
+"255","Paua","2019",677150,NA
+"256","Paua","2020",684966,NA
+"257","Paua","2021",706372,NA
+"258","Paua","2022",753639,NA
+"259","Paua",NA,0,NA
+"260","Pigfish",NA,0,NA
+"261","Pilchard/Sardines","2018",624189,2485000
+"262","Pilchard/Sardines","2019",343381,2485000
+"263","Pilchard/Sardines","2020",261700,2485000
+"264","Pilchard/Sardines","2021",431306,2485000
+"265","Pilchard/Sardines","2022",194039,2485000
+"266","Pomfrets","2018",289677,980000
+"267","Pomfrets","2019",141174,980000
+"268","Pomfrets","2020",218833,980000
+"269","Pomfrets","2021",405365,980000
+"270","Pomfrets","2022",772762,980000
+"271","Pomfrets",NA,0,NA
+"272","Porae","2018",54498,83000
+"273","Porae","2019",54594,83000
+"274","Porae","2020",54415,83000
+"275","Porae","2021",55781,89000
+"276","Porae","2022",44593,89000
+"277","Rattails & Other Macrouridae Fish",NA,0,NA
+"278","Rays & Skates","2018",2475916,2835000
+"279","Rays & Skates","2019",2134016,2835000
+"280","Rays & Skates","2020",1977844,2835000
+"281","Rays & Skates","2021",2008700,2835000
+"282","Rays & Skates","2022",1563544,2835000
+"283","Rays & Skates",NA,0,NA
+"284","Redbait","2018",1763769,5050000
+"285","Redbait","2019",2673606,5050000
+"286","Redbait","2020",2482780,5050000
+"287","Redbait","2021",2210447,5050000
+"288","Redbait","2022",1738047,5050000
+"289","Ribaldo","2018",1094093,1683000
+"290","Ribaldo","2019",1021450,1683000
+"291","Ribaldo","2020",920555,1683000
+"292","Ribaldo","2021",921614,1683000
+"293","Ribaldo","2022",901554,1683000
+"294","Rubyfish","2018",198257,839000
+"295","Rubyfish","2019",225005,839000
+"296","Rubyfish","2020",572731,839000
+"297","Rubyfish","2021",421432,848000
+"298","Rubyfish","2022",382923,848000
+"299","Salmon, Trout & Other Salmonidae Fish","2018",4149,NA
+"300","Salmon, Trout & Other Salmonidae Fish","2019",522,NA
+"301","Salmon, Trout & Other Salmonidae Fish","2020",137,NA
+"302","Salmon, Trout & Other Salmonidae Fish","2021",293,NA
+"303","Salmon, Trout & Other Salmonidae Fish","2022",190,NA
+"304","Salmon, Trout & Other Salmonidae Fish",NA,0,NA
+"305","Scallops","2018",64821,902000
+"306","Scallops","2019",40734,902000
+"307","Scallops","2020",33494,872000
+"308","Scallops","2021",39890,872000
+"309","Scallops","2022",40329,817000
+"310","Scallops",NA,0,NA
+"311","Sea Cucumbers","2018",27312,90000
+"312","Sea Cucumbers","2019",51766,1e+05
+"313","Sea Cucumbers","2020",46650,1e+05
+"314","Sea Cucumbers","2021",51891,1e+05
+"315","Sea Cucumbers","2022",52992,1e+05
+"316","Sea Cucumbers",NA,0,NA
+"317","Sea Perch","2018",1368359,2190000
+"318","Sea Perch","2019",1165722,2190000
+"319","Sea Perch","2020",1096521,2190000
+"320","Sea Perch","2021",984083,2194000
+"321","Sea Perch","2022",796023,2194000
+"322","Sea Urchins","2018",946893,1147000
+"323","Sea Urchins","2019",891512,1147000
+"324","Sea Urchins","2020",972530,1147000
+"325","Sea Urchins","2021",989687,1147000
+"326","Sea Urchins","2022",891826,1147000
+"327","Sea Urchins",NA,0,NA
+"328","Seaweed","2018",176905,NA
+"329","Seaweed","2019",73401,NA
+"330","Seaweed","2020",93227,NA
+"331","Seaweed","2021",107707,NA
+"332","Seaweed","2022",79567,NA
+"333","Seaweed",NA,0,NA
+"334","Sharks & Dogfish","2018",11239566,NA
+"335","Sharks & Dogfish","2019",9636363,NA
+"336","Sharks & Dogfish","2020",8847383,NA
+"337","Sharks & Dogfish","2021",9877506,NA
+"338","Sharks & Dogfish","2022",9353116,NA
+"339","Sharks & Dogfish",NA,0,NA
+"340","Shells, Clams, Snails & Other Molluscs","2018",400934,4331500
+"341","Shells, Clams, Snails & Other Molluscs","2019",429582,4331500
+"342","Shells, Clams, Snails & Other Molluscs","2020",365476,4331500
+"343","Shells, Clams, Snails & Other Molluscs","2021",383579,4388400
+"344","Shells, Clams, Snails & Other Molluscs","2022",395534,4388400
+"345","Shells, Clams, Snails & Other Molluscs",NA,0,NA
+"346","Shrimps & Prawns","2018",0,NA
+"347","Shrimps & Prawns","2019",16,NA
+"348","Shrimps & Prawns","2020",0,NA
+"349","Shrimps & Prawns","2021",0,NA
+"350","Shrimps & Prawns","2022",4,NA
+"351","Shrimps & Prawns",NA,0,NA
+"352","Snappers/Sea Breams","2018",6490740,6407300
+"353","Snappers/Sea Breams","2019",6350761,6407300
+"354","Snappers/Sea Breams","2020",6426701,6407300
+"355","Snappers/Sea Breams","2021",6531535,6507300
+"356","Snappers/Sea Breams","2022",6713974,6807300
+"357","Sole Fish","2018",0,NA
+"358","Sole Fish","2019",0,NA
+"359","Sole Fish","2020",0,NA
+"360","Sole Fish","2021",0,NA
+"361","Sole Fish","2022",0,NA
+"362","Sole Fish",NA,0,NA
+"363","Southern Blue Whiting","2018",15626254,49583000
+"364","Southern Blue Whiting","2019",31888824,49583000
+"365","Southern Blue Whiting","2020",13530088,49268000
+"366","Southern Blue Whiting","2021",20663700,49268000
+"367","Southern Blue Whiting","2022",23227175,48702000
+"368","Sprat Fish","2018",3,450000
+"369","Sprat Fish","2019",3,450000
+"370","Sprat Fish","2020",0,450000
+"371","Sprat Fish","2021",1,450000
+"372","Sprat Fish","2022",2,450000
+"373","Squid","2018",23072693,82120281
+"374","Squid","2019",43396992,82120281
+"375","Squid","2020",42031616,82120281
+"376","Squid","2021",30080765,82120281
+"377","Squid","2022",32599995,82120281
+"378","Squid",NA,0,NA
+"379","Stargazer/Monkfish","2018",3004103,5536400
+"380","Stargazer/Monkfish","2019",2840125,5536400
+"381","Stargazer/Monkfish","2020",2737761,5536400
+"382","Stargazer/Monkfish","2021",2845852,5622400
+"383","Stargazer/Monkfish","2022",2881425,5622400
+"384","Stargazer/Monkfish",NA,0,NA
+"385","Stars & Starfish",NA,0,NA
+"386","Swordfish","2018",475014,885000
+"387","Swordfish","2019",262437,885000
+"388","Swordfish","2020",216029,885000
+"389","Swordfish","2021",308560,885000
+"390","Swordfish","2022",141159,885000
+"391","Tarakihi","2018",5742398,NA
+"392","Tarakihi","2019",5149711,NA
+"393","Tarakihi","2020",4392295,NA
+"394","Tarakihi","2021",4501388,NA
+"395","Tarakihi","2022",4034946,NA
+"396","Toothfish","2018",4485,NA
+"397","Toothfish","2019",20,NA
+"398","Toothfish","2020",5,NA
+"399","Toothfish","2021",0,NA
+"400","Toothfish","2022",8572,NA
+"401","Trevally","2018",3758538,3933103
+"402","Trevally","2019",3089687,3933103
+"403","Trevally","2020",3121515,3933103
+"404","Trevally","2021",3051497,3933103
+"405","Trevally","2022",3282196,3933103
+"406","Trumpeter","2018",52422,144000
+"407","Trumpeter","2019",62499,144000
+"408","Trumpeter","2020",66741,144000
+"409","Trumpeter","2021",98813,147000
+"410","Trumpeter","2022",54397,147000
+"411","Tuatua","2018",263250,1067000
+"412","Tuatua","2019",315866,1067000
+"413","Tuatua","2020",219298,1067000
+"414","Tuatua","2021",193842,1067000
+"415","Tuatua","2022",165397,1067000
+"416","Tuna Fish","2018",19048669,NA
+"417","Tuna Fish","2019",19548853,NA
+"418","Tuna Fish","2020",18832778,NA
+"419","Tuna Fish","2021",20519832,NA
+"420","Tuna Fish","2022",15997748,NA
+"421","Tuna Fish",NA,0,NA
+"422","Turbots","2018",0,NA
+"423","Turbots","2019",0,NA
+"424","Turbots","2020",0,NA
+"425","Turbots","2021",0,NA
+"426","Turbots","2022",0,NA
+"427","Warehou Fish","2018",12264873,18627559
+"428","Warehou Fish","2019",12569340,18627559
+"429","Warehou Fish","2020",11150723,18627559
+"430","Warehou Fish","2021",11344324,19368358
+"431","Warehou Fish","2022",11474872,19368358
+"432","Whitebait & Other Galaxiid Fish","2018",0,NA
+"433","Whitebait & Other Galaxiid Fish","2019",0,NA
+"434","Whitebait & Other Galaxiid Fish","2020",7,NA
+"435","Whitebait & Other Galaxiid Fish","2021",0,NA
+"436","Whitebait & Other Galaxiid Fish","2022",0,NA
+"437","Whitebait & Other Galaxiid Fish",NA,0,NA
+"438","Worms",NA,0,NA
+"439","Zooplankton & Phytoplankton",NA,0,NA
